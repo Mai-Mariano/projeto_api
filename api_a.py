@@ -34,3 +34,6 @@ def get_recommendation(city):
 
 if __name__ == '__main__':
     app.run(port=5000, debug=True)
+
+    
+    # Comentário de teste para Git
